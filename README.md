@@ -6,13 +6,13 @@
  * - [x] Chapter 5  : Introduction to Objects
  * - [x] Chapter 6  : Lists and for-Loops
  * - [x] Chapter 7  : More on for-Loops, Lists, and Iterables
- * - [ ] Chapter 8  : Modules and import Statements
- * - [ ] Chapter 9  : Strings
- * - [ ] Chapter 10 : Reading and Writing Files
+ * - [x] Chapter 8  : Modules and import Statements
+ * - [x] Chapter 9  : Strings
+ * - [x] Chapter 10 : Reading and Writing Files
  * - [ ] Chapter 11 : Conditional Statements
  * - [ ] Chapter 12 : Recursion
  * - [ ] Chapter 13 : Turtle Graphics
- * - [ ] Chapter 13 : Turtle Graphics
+ * - [ ] Chapter 14 : Dictionaries
  
 
  
