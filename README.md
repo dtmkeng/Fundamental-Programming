@@ -2,10 +2,10 @@
 ## Review Questions from Algorithmic-Problem-Solving-with-Python
  * - [x] Chapter 2  : Core Basics
  * - [x] Chapter 3  : Input and Type Conversion
- * - [ ] Chapter 4  : Functions
- * - [ ] Chapter 5  : Introduction to Objects
- * - [ ] Chapter 6  : Lists and for-Loops
- * - [ ] Chapter 7  : More on for-Loops, Lists, and Iterables
+ * - [x] Chapter 4  : Functions
+ * - [x] Chapter 5  : Introduction to Objects
+ * - [x] Chapter 6  : Lists and for-Loops
+ * - [x] Chapter 7  : More on for-Loops, Lists, and Iterables
  * - [ ] Chapter 8  : Modules and import Statements
  * - [ ] Chapter 9  : Strings
  * - [ ] Chapter 10 : Reading and Writing Files
