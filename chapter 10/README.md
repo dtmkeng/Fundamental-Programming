@@ -10,12 +10,14 @@
     - [ ] (c) file object
     - [ ] (d) None of the above.
     - [ ] (e) This code produces an error.
-    For problems 2 through 9, assume the file foo.txt contains the following:
-    ```
+    
+## For problems 2 through 9, assume the file foo.txt contains the following:
+    
+```
     This is
     a test.
     Isn’t it? I think so.
-    ```
+```
 2. What output is produced by the following?
     ```py
         file = open("foo.txt", "r")

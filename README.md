@@ -9,11 +9,16 @@
  * - [x] Chapter 8  : Modules and import Statements
  * - [x] Chapter 9  : Strings
  * - [x] Chapter 10 : Reading and Writing Files
- * - [ ] Chapter 11 : Conditional Statements
- * - [ ] Chapter 12 : Recursion
- * - [ ] Chapter 13 : Turtle Graphics
- * - [ ] Chapter 14 : Dictionaries
+ * - [x] Chapter 11 : Conditional Statements
+ * - [x] Chapter 12 : Recursion
+ * - [x] Chapter 13 : Turtle Graphics
+ * - [x] Chapter 14 : Dictionaries
  
+## Thank You 
+
+### ref (e-book)
+Algorithmic Problem Solving with Python
+John B. Schneider Shira Lynn Broschat Jess Dahmen
 
  
  
