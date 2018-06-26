@@ -1,5 +1,5 @@
 # Turtle Graphics
-![](img/turlte.jpg)
+![Turtle](../img/turlte.jpg)
 ### Get Start
 ```py
    import turtle as t
